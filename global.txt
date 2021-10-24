@@ -9,10 +9,12 @@
 </head>
 <body>
 ZID22
+ZID10
   ...
   <!-- Le reste du contenu -->
   ZID22
   ...
   ZID22
+ZID10
 </body>
 </html>

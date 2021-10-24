@@ -2,6 +2,7 @@
 
 first line
 ZID22
+ZID10
  2 LINE
 
 
@@ -19,4 +20,5 @@ ZID22
 7777777777777777777777
 
 ZID22
+zid10
 END
