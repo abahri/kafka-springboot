@@ -4,11 +4,15 @@
   <meta charset="utf-8">
   <title>Titre de la page</title>
   <link rel="stylesheet" href="style.css">
+  ZID22
   <script src="script.js"></script>
 </head>
 <body>
+ZID22
   ...
   <!-- Le reste du contenu -->
+  ZID22
   ...
+  ZID22
 </body>
 </html>
