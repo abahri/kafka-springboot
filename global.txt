@@ -14,17 +14,7 @@ ZID10
   9999
   <!-- Le reste du contenu -->
   &&&&&&&&&& yo 10
-  @@@@@111111
-  &&&&& 09090999999999999999999999999999999999999999
-  %%%%
-66666666666666666666666666666666666666666666
-  %%%%oooooooooooooooooooooooo
-ooooooooooooooooooooooooooo
-  22222
-  33333
-  44444
-  55555QQ
-  $$$$$ssssssss
+@@@@@@@@@@@@@@@@@
 sssssss ZID22
 ssssssssss
   ...
